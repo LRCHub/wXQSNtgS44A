@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "baseball",
+  "base_artist": "Hippo Campus",
+  "createdAt": "2025-12-30T07:35:57.394933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just A Friendly Game of Baseball",
+      "artist": "Main Source",
+      "has_synced": true,
+      "path": "select/01_Just_A_Friendly_Game_of_Baseball_Main_Source.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Just A Friendly Game Of Baseball - Remix",
+      "artist": "Main Source",
+      "has_synced": false,
+      "path": "select/02_Just_A_Friendly_Game_Of_Baseball_-_Remix_Main_Source.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baseball Cap",
+      "artist": "Faithless",
+      "has_synced": true,
+      "path": "select/03_Baseball_Cap_Faithless.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baseball Diamond",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/04_Baseball_Diamond_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baseball Boogie [Outtake]",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/05_Baseball_Boogie_[Outtake]_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reminder (Jonah Baseball Remix)",
+      "artist": "RL Grime feat. How To Dress Well",
+      "has_synced": false,
+      "path": "select/06_Reminder_(Jonah_Baseball_Remix)_RL_Grime_feat._How_To_Dress_Well.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Reminder (feat. How To Dress Well) (Jonah Baseball Remix)",
+      "artist": "RL Grime",
+      "has_synced": false,
+      "path": "select/07_Reminder_(feat._How_To_Dress_Well)_(Jonah_Baseball_Remix)_RL_Grime.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baseball Bill",
+      "artist": "Echo & The Bunnymen",
+      "has_synced": false,
+      "path": "select/08_Baseball_Bill_Echo_&_The_Bunnymen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baseball Cards",
+      "artist": "Wavves",
+      "has_synced": true,
+      "path": "select/09_Baseball_Cards_Wavves.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Beat My Ass (With A Baseball Bat)",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/10_Don't_Beat_My_Ass_(With_A_Baseball_Bat)_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Beat My Ass (With a Baseball Bat)",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/11_Don't_Beat_My_Ass_(With_a_Baseball_Bat)_The_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Dream With a Baseball Player",
+      "artist": "Faye Webster",
+      "has_synced": true,
+      "path": "select/12_A_Dream_With_a_Baseball_Player_Faye_Webster.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Is Like a Baseball Game",
+      "artist": "The Intruders",
+      "has_synced": true,
+      "path": "select/13_Love_Is_Like_a_Baseball_Game_The_Intruders.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(Love Is Like A) Baseball Game",
+      "artist": "Intruders",
+      "has_synced": true,
+      "path": "select/14_(Love_Is_Like_A)_Baseball_Game_Intruders.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baseball",
+      "artist": "Michael Franks",
+      "has_synced": true,
+      "path": "select/15_Baseball_Michael_Franks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baseball",
+      "artist": "Hippo Campus",
+      "has_synced": false,
+      "path": "select/pl_01_Baseball_Hippo_Campus.txt"
+    }
+  ]
+}
